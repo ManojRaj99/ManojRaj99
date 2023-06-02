@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manoj</h1>
+<h1 align="center">Hi <img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F414683078193015061%2F&psig=AOvVaw2B_XZ1p7yq7YedyeGf9Wgy&ust=1685776484107000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjZqfaEpP8CFQAAAAAdAAAAABA6">, I'm Manoj</h1>
 <h3 align="center">student of MSRIT</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
